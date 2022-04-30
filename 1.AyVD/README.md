@@ -4,4 +4,4 @@
 
 ### **Integrantes:**
 
-> Federico Bosack | María Fernanda Artola | Francisco Furey | Rocio Martinez 1Teo Argañaraz Sarmiento 
+> Federico Bosack | María Fernanda Artola | Francisco Furey | Rocio Martinez | Teo Argañaraz Sarmiento 
