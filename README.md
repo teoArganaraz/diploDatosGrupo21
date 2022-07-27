@@ -4,4 +4,4 @@
 
 ### **Integrantes:**
 
-> Federico Bosack | María Fernanda Artola | Francisco Furey | Rocio Martinez | Teo Argañaraz Sarmiento 
+> Federico Bosack | Cecilia Alamos | Rocio Martinez | Teo Argañaraz Sarmiento 
