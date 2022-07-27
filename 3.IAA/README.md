@@ -1,6 +1,6 @@
 # Diplomatura en Ciencias de Datos 2022
 
-## **Materia: Análisis Exploratorio y Curación de Datos**
+## **Materia: Introducción al Aprendizaje Automático**
 
 ### **Integrantes:**
 
